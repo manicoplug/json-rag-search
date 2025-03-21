@@ -1,0 +1,49 @@
+{
+    "employees": [
+      {
+        "employee_id": "E001",
+        "name": "John Doe",
+        "department": "Sales",
+        "position": "Sales Manager",
+        "leaves": [
+          {
+            "leave_id": "L001",
+            "start_date": "2023-01-15",
+            "end_date": "2023-01-20",
+            "type": "Annual Leave",
+            "reason": "Vacation"
+          },
+          {
+            "leave_id": "L002",
+            "start_date": "2023-03-10",
+            "end_date": "2023-03-12",
+            "type": "Sick Leave",
+            "reason": "Flu"
+          }
+        ]
+      },
+      {
+        "employee_id": "E002",
+        "name": "Jane Smith",
+        "department": "Marketing",
+        "position": "Marketing Specialist",
+        "leaves": [
+          {
+            "leave_id": "L003",
+            "start_date": "2023-02-05",
+            "end_date": "2023-02-07",
+            "type": "Annual Leave",
+            "reason": "Personal"
+          },
+          {
+            "leave_id": "L004",
+            "start_date": "2023-04-15",
+            "end_date": "2023-04-20",
+            "type": "Maternity Leave",
+            "reason": "Childbirth"
+          }
+        ]
+      }
+    ]
+  }
+  
